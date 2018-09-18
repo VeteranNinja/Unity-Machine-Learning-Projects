@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EthanWalker.Plugins", "EthanWalker.Plugins.csproj", "{5EAC09B8-39BA-56AB-4D59-6CD6DE6A5007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EthanWalker", "EthanWalker.csproj", "{0FD6B018-19D4-84C7-D93E-915D1B65EF33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EthanWalker.Editor.Plugins", "EthanWalker.Editor.Plugins.csproj", "{30FF9210-1BDB-30DF-E591-C64CE4A319AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EAC09B8-39BA-56AB-4D59-6CD6DE6A5007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAC09B8-39BA-56AB-4D59-6CD6DE6A5007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAC09B8-39BA-56AB-4D59-6CD6DE6A5007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAC09B8-39BA-56AB-4D59-6CD6DE6A5007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD6B018-19D4-84C7-D93E-915D1B65EF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD6B018-19D4-84C7-D93E-915D1B65EF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD6B018-19D4-84C7-D93E-915D1B65EF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD6B018-19D4-84C7-D93E-915D1B65EF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30FF9210-1BDB-30DF-E591-C64CE4A319AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FF9210-1BDB-30DF-E591-C64CE4A319AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FF9210-1BDB-30DF-E591-C64CE4A319AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FF9210-1BDB-30DF-E591-C64CE4A319AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
